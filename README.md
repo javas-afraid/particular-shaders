@@ -1,5 +1,5 @@
 <div align=center>
-  <img src=logo/logo.png width=5m>
+  <img src=logo/logo.png width=50%>
   <h3>Particular Shaders</h3>
   
   <br>
